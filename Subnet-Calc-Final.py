@@ -1,4 +1,4 @@
-        ############# IP Calculator - Part #1 #############
+        ############# IP Calculator - Parte #1 #############
 
 import random
 import sys
@@ -8,7 +8,7 @@ def subnet_calc():
     #subnet_mask = 0
     try:
         print ("\n")
-
+        print ("Designed by Beto")
         #Ask for an IP Address
         #Checking IP address validity
         while True:
