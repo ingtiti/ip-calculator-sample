@@ -9,6 +9,7 @@ def subnet_calc():
     try:
         print ("\n")
         print ("Designed by Beto")
+        print ("Hello world")
         #Ask for an IP Address
         #Checking IP address validity
         while True:
